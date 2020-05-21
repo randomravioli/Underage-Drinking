@@ -1,0 +1,43 @@
+.header{
+    background-color:#3399FF ;  
+     font-size:40px;
+    text-align: center;
+    outline-style: solid;
+    outline-color: #3399FF;
+    outline-width: medium
+    padding:35px
+    
+}
+
+.main{
+    background-color: #E6E6E6;  
+    font-size: 20x;
+}
+
+.footer{
+    background-color:#3399FF ;
+    text-align: center;
+     font-size: 20px;
+    padding:5px;
+  
+}
+
+body{
+    background-color:#E6E6E6;
+    margin: 25px 50px 75px 100p;
+    
+}
+
+#guy-drinking-on-street{
+    float:right;
+    outline-color:#3399FF; 
+    outline-width: 10px;
+    outline-style: solid;
+  
+ }
+#twobeerbottles{
+     float:right;
+    outline-color:#3399FF; 
+    outline-width: 10px;
+    outline-style: solid;
+}
